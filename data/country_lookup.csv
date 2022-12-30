@@ -1,0 +1,384 @@
+local_authority,country
+Hartlepool,England
+Middlesbrough,England
+Redcar and Cleveland,England
+Darlington,England
+Halton,England
+Warrington,England
+Blackburn with Darwen,England
+"Kingston upon Hull, City of",England
+Blackpool,England
+East Riding of Yorkshire,England
+North East Lincolnshire,England
+North Lincolnshire,England
+Nottingham,England
+"Herefordshire, County of",England
+Leicester,England
+York,England
+Derby,England
+Rutland,England
+Stockton-on-Tees,England
+South Gloucestershire,England
+Plymouth,England
+Torbay,England
+Luton,England
+Swindon,England
+North Somerset,England
+Bath and North East Somerset,England
+Southend-on-Sea,England
+"Bristol, City of",England
+Stoke-on-Trent,England
+Telford and Wrekin,England
+Thurrock,England
+Medway,England
+Bracknell Forest,England
+Peterborough,England
+West Berkshire,England
+Cheshire East,England
+Reading,England
+Cheshire West and Chester,England
+County Durham,England
+Windsor and Maidenhead,England
+Isle of Wight,England
+Shropshire,England
+Slough,England
+Wokingham,England
+Brighton and Hove,England
+Milton Keynes,England
+Portsmouth,England
+Southampton,England
+Wiltshire,England
+Northumberland,England
+Cornwall,England
+Bedford,England
+"Bournemouth, Christchurch and Poole",England
+Central Bedfordshire,England
+Dorset,England
+Isles of Scilly,England
+Allerdale,England
+South Lakeland,England
+Huntingdonshire,England
+Buckinghamshire,England
+Barrow-in-Furness,England
+Carlisle,England
+Copeland,England
+Cambridge,England
+Amber Valley,England
+Bolsover,England
+East Cambridgeshire,England
+Fenland,England
+Eden,England
+South Cambridgeshire,England
+North Devon,England
+Teignbridge,England
+Erewash,England
+Eastbourne,England
+Rother,England
+High Peak,England
+East Devon,England
+North East Derbyshire,England
+Chesterfield,England
+Exeter,England
+Mid Devon,England
+Hastings,England
+Torridge,England
+South Derbyshire,England
+Wealden,England
+West Devon,England
+Derbyshire Dales,England
+South Hams,England
+Lewes,England
+Brentwood,England
+Castle Point,England
+Chelmsford,England
+Tendring,England
+Forest of Dean,England
+Stroud,England
+Cheltenham,England
+Epping Forest,England
+Colchester,England
+Harlow,England
+Basildon,England
+Braintree,England
+Cotswold,England
+Maldon,England
+Tewkesbury,England
+Gloucester,England
+Uttlesford,England
+Rochford,England
+Basingstoke and Deane,England
+Rushmoor,England
+Ashford,England
+Broxbourne,England
+Hart,England
+Canterbury,England
+Eastleigh,England
+North Hertfordshire,England
+Test Valley,England
+Havant,England
+New Forest,England
+Fareham,England
+Dartford,England
+Gosport,England
+Dacorum,England
+East Hampshire,England
+Winchester,England
+Three Rivers,England
+Hertsmere,England
+Dover,England
+Watford,England
+Gravesham,England
+South Ribble,England
+Chorley,England
+Swale,England
+Fylde,England
+Thanet,England
+Lancaster,England
+West Lancashire,England
+Sevenoaks,England
+Preston,England
+Tunbridge Wells,England
+Wyre,England
+Maidstone,England
+Ribble Valley,England
+Pendle,England
+Folkestone and Hythe,England
+Tonbridge and Malling,England
+Burnley,England
+Hyndburn,England
+Rossendale,England
+Charnwood,England
+Harborough,England
+Melton,England
+Broadland,England
+East Lindsey,England
+Hinckley and Bosworth,England
+West Lindsey,England
+North West Leicestershire,England
+North Kesteven,England
+South Holland,England
+Oadby and Wigston,England
+Boston,England
+Breckland,England
+Blaby,England
+Lincoln,England
+South Kesteven,England
+Great Yarmouth,England
+King's Lynn and West Norfolk,England
+Harrogate,England
+Richmondshire,England
+Ryedale,England
+Scarborough,England
+South Northamptonshire,England
+North Norfolk,England
+Corby,England
+Selby,England
+Ashfield,England
+Kettering,England
+Craven,England
+Norwich,England
+South Norfolk,England
+Wellingborough,England
+Northampton,England
+Daventry,England
+Hambleton,England
+East Northamptonshire,England
+South Somerset,England
+South Oxfordshire,England
+West Oxfordshire,England
+Broxtowe,England
+Cannock Chase,England
+East Staffordshire,England
+Mansfield,England
+Rushcliffe,England
+Mendip,England
+Lichfield,England
+Sedgemoor,England
+Gedling,England
+Cherwell,England
+Newark and Sherwood,England
+Bassetlaw,England
+Oxford,England
+Vale of White Horse,England
+Elmbridge,England
+Waverley,England
+Staffordshire Moorlands,England
+Spelthorne,England
+Babergh,England
+South Staffordshire,England
+Epsom and Ewell,England
+Guildford,England
+Mole Valley,England
+Ipswich,England
+Woking,England
+North Warwickshire,England
+Nuneaton and Bedworth,England
+Surrey Heath,England
+Tandridge,England
+Tamworth,England
+Newcastle-under-Lyme,England
+Reigate and Banstead,England
+Mid Suffolk,England
+Stafford,England
+Runnymede,England
+Stratford-on-Avon,England
+Malvern Hills,England
+Warwick,England
+Adur,England
+St Albans,England
+Mid Sussex,England
+Wychavon,England
+Arun,England
+Crawley,England
+Worthing,England
+Welwyn Hatfield,England
+Horsham,England
+Rugby,England
+Redditch,England
+Chichester,England
+Bromsgrove,England
+East Hertfordshire,England
+Wyre Forest,England
+Worcester,England
+Somerset West and Taunton,England
+Bury,England
+Knowsley,England
+Salford,England
+Stevenage,England
+East Suffolk,England
+West Suffolk,England
+Oldham,England
+Trafford,England
+Liverpool,England
+Stockport,England
+Tameside,England
+Rochdale,England
+Manchester,England
+Bolton,England
+Wigan,England
+St. Helens,England
+Sandwell,England
+Birmingham,England
+Solihull,England
+Walsall,England
+Wolverhampton,England
+Newcastle upon Tyne,England
+Barnsley,England
+Coventry,England
+Sunderland,England
+Sefton,England
+Rotherham,England
+Sheffield,England
+Wirral,England
+North Tyneside,England
+Dudley,England
+Doncaster,England
+South Tyneside,England
+Barking and Dagenham,England
+Leeds,England
+Calderdale,England
+Brent,England
+Barnet,England
+Bexley,England
+Camden,England
+Gateshead,England
+Ealing,England
+Enfield,England
+Croydon,England
+Kirklees,England
+City of London,England
+Bromley,England
+Wakefield,England
+Bradford,England
+Greenwich,England
+Hackney,England
+Hillingdon,England
+Lewisham,England
+Hammersmith and Fulham,England
+Haringey,England
+Harrow,England
+Newham,England
+Southwark,England
+Kensington and Chelsea,England
+Hounslow,England
+Redbridge,England
+Merton,England
+Kingston upon Thames,England
+Lambeth,England
+Havering,England
+Islington,England
+Richmond upon Thames,England
+Sutton,England
+Tower Hamlets,England
+Waltham Forest,England
+Wandsworth,England
+Westminster,England
+Antrim and Newtownabbey,Northern Ireland
+Lisburn and Castlereagh,Northern Ireland
+"Armagh City, Banbridge and Craigavon",Northern Ireland
+Belfast,Northern Ireland
+Mid and East Antrim,Northern Ireland
+Derry City and Strabane,Northern Ireland
+Fermanagh and Omagh,Northern Ireland
+Causeway Coast and Glens,Northern Ireland
+Mid Ulster,Northern Ireland
+City of Edinburgh,Scotland
+Renfrewshire,Scotland
+Highland,Scotland
+Ards and North Down,Northern Ireland
+Scottish Borders,Scotland
+Aberdeen City,Scotland
+East Ayrshire,Scotland
+Inverclyde,Scotland
+Midlothian,Scotland
+Moray,Scotland
+North Ayrshire,Scotland
+Orkney Islands,Scotland
+"Newry, Mourne and Down",Northern Ireland
+East Dunbartonshire,Scotland
+West Dunbartonshire,Scotland
+Shetland Islands,Scotland
+East Lothian,Scotland
+West Lothian,Scotland
+Fife,Scotland
+Aberdeenshire,Scotland
+Argyll and Bute,Scotland
+South Ayrshire,Scotland
+South Lanarkshire,Scotland
+Stirling,Scotland
+East Renfrewshire,Scotland
+Angus,Scotland
+Dundee City,Scotland
+Na h-Eileanan Siar,Scotland
+Clackmannanshire,Scotland
+Dumfries and Galloway,Scotland
+Perth and Kinross,Scotland
+Glasgow City,Scotland
+Falkirk,Scotland
+Pembrokeshire,Wales
+Gwynedd,Wales
+Conwy,Wales
+Wrexham,Wales
+Flintshire,Wales
+Ceredigion,Wales
+North Lanarkshire,Scotland
+Isle of Anglesey,Wales
+Denbighshire,Wales
+Carmarthenshire,Wales
+Monmouthshire,Wales
+Swansea,Wales
+Caerphilly,Wales
+Rhondda Cynon Taf,Wales
+Neath Port Talbot,Wales
+Newport,Wales
+Cardiff,Wales
+Bridgend,Wales
+Blaenau Gwent,Wales
+Vale of Glamorgan,Wales
+Torfaen,Wales
+Powys,Wales
+Merthyr Tydfil,Wales
+Chiltern,England
+Wycombe,England
+Aylesbury Vale,England
+South Bucks,England
