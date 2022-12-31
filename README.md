@@ -4,7 +4,7 @@
 
 #### Interactive map is available at: https://pubs.shangjielyu.com/
 
-![preview](docs/og_img.png)
+![poster](data/poster.png)
 
 ---
 
